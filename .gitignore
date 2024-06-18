@@ -1,0 +1,4 @@
+# gitignore for images files
+*.png
+*.jpg
+*.jpeg

@@ -1,0 +1,45 @@
+<annotation>
+	<folder />
+	<filename>000072_jpg.rf.7709e0aa90a3e17f20c89919a711e0c4.jpg</filename>
+	<path>000072_jpg.rf.7709e0aa90a3e17f20c89919a711e0c4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>187</xmin>
+			<xmax>423</xmax>
+			<ymin>213</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+		<polygon>
+			<x1>401.058596</x1>
+			<y1>290.3573</y1>
+			<x2>240.781045</x2>
+			<y2>212.244368</y2>
+			<x3>185.621256</x3>
+			<y3>393.559056</y3>
+			<x4>366.974516</x4>
+			<y4>470.278478</y4>
+			<x5>378.865665</x5>
+			<y5>426.818704</y5>
+			<x6>385.750683</x6>
+			<y6>390.046223</y6>
+			<x7>421.657111</x7>
+			<y7>300.41198</y7>
+			<x8>401.058596</x8>
+			<y8>290.3573</y8>
+		</polygon>
+	</object>
+</annotation>

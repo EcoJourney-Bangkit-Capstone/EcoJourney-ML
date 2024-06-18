@@ -1,0 +1,45 @@
+<annotation>
+	<folder />
+	<filename>000091_jpg.rf.99dbe8e94fb3b5e63443a307815f03d9.jpg</filename>
+	<path>000091_jpg.rf.99dbe8e94fb3b5e63443a307815f03d9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>318</xmin>
+			<xmax>365</xmax>
+			<ymin>315</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+		<polygon>
+			<x1>360.784314</x1>
+			<y1>314.117647</y1>
+			<x2>330.457516</x2>
+			<y2>320</y2>
+			<x3>318.954248</x3>
+			<y3>322.941176</y3>
+			<x4>316.601307</x4>
+			<y4>325.294118</y4>
+			<x5>320</x5>
+			<y5>332.941176</y5>
+			<x6>331.764706</x6>
+			<y6>330.196078</y6>
+			<x7>363.921569</x7>
+			<y7>322.156863</y7>
+			<x8>360.784314</x8>
+			<y8>314.117647</y8>
+		</polygon>
+	</object>
+</annotation>
