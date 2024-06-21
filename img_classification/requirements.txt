@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+tensorflow
+tflite_support
+imghdr
+pillow
